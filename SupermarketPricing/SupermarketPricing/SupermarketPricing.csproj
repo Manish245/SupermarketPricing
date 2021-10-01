@@ -15,9 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="CalculateItemFactory\" />
-    <Folder Include="ItemRepository\" />
-    <Folder Include="CalculateSchemeFactory\" />
     <Folder Include="StockRepository\" />
   </ItemGroup>
 
